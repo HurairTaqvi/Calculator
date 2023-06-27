@@ -1,0 +1,25 @@
+.frame {
+  background-color: burlywood;
+  width: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}

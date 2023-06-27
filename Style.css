@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&display=swap");
+
+html,
+body {
+  background-color: rgb(84, 91, 7);
+  margin: 10px auto;
+  height: 100%;
+  width: 100%;
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(84, 91, 7);
+}
+
+#td-ltr {
+  text-align: right;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  margin: 0;
+  padding: 10px 0px;
+  width: 291px;
+  font-size: 24px;
+  border: 5px solid rgb(84, 91, 7);
+  background-color: tomato;
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+.button {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  color: rgb(193, 140, 62);
+  font-weight: bolder;
+  border: 2px solid rgb(193, 140, 62);
+  border-radius: 9px;
+  cursor: pointer;
+}
